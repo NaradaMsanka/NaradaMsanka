@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NARADA MADUSHANKA</h1>
 <h3 align="center">Undergraduate Student | Self-Learner | Sabaragamuwa University of Sri Lanka</h3>
----
+
 - 🌱 I’m currently learning **Java , spring boot**
 
 - 💬 Ask me about **C,JS,CSS**
@@ -8,7 +8,7 @@
 - 📫 How to reach me **naradamsanka@gmail.com**
 
 - ⚡ Fun fact **Narada**
----
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/suneth narada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suneth narada" height="30" width="40" /></a>
