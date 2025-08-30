@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
-<p align="center"><img src="https://www.pinterest.com/pin/113012271895040324/"></p>
+<p align="center"><img src="https://share.google/images/gowoI5zWmN6K9Yiyv"></p>
 
 <h1>Statistics</h1>
 <p align="center"><b>Visitor's Count</b></p>
