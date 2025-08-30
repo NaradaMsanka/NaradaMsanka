@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
-<p align="center"><img src="abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg"></p>
+<p align="center"><img src="b40a5ccf-2574-4a16-ae66-20b96ec25ed7.png"></p>
 
 <h1>Statistics</h1>
 <p align="center"><b>Visitor's Count</b></p>
